@@ -8,7 +8,7 @@ on:
 
 jobs:
     production_build:
-        name: Porduction Build
+        name: Production build
         runs-on: ubuntu-latest
 
         steps:
